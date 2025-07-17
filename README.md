@@ -17,12 +17,5 @@
 
 <img src="https://github.com/user-attachments/assets/32151ca7-beff-4d99-8830-4f467a9e2528" width="300" />
 
-**Запуск через Docker Compose**
-
-У проекті присутній файл docker-compose.yml
-
-Команда для запуску: `docker-compose up --build`
-
-Команда для зупинки та очистки контейнерів: `docker-compose down`
 
 >Author: Ihor Losinskyi
